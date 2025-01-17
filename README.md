@@ -1,7 +1,8 @@
 # ChatBot-Using-React
 
 ChatBot AI Using React.js & Express.js
-	A Chatbot AI using React (for the frontend) and Express (for the backend) typically involves setting up a user interface where users can interact with the chatbot and a backend server that processes the conversation and responds with the appropriate AI-generated reply.
+	
+ A Chatbot AI using React (for the frontend) and Express (for the backend) typically involves setting up a user interface where users can interact with the chatbot and a backend server that processes the conversation and responds with the appropriate AI-generated reply.
 
 1. Frontend (React)
 React is used to build the interactive user interface (UI) for the chatbot. It handles the UI components where users can input their messages, display chat history, and interact with the chatbot.
