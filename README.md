@@ -19,21 +19,21 @@ Environment Variables: Express can securely manage API keys and other configurat
 
 Structure :
 
-/chatbot
-├── /node_modules
-├── /public
-│   ├── logo.png  <-- logo image here
-│   ├── index.html
-├── /src
-│   ├── /components
-│   │   ├── Chatbot.js      <-- Chatbot page
-│   │   ├── AboutUs.js      <-- About Us page
-│   │   └── Home.js         <-- Home page
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-├── package.json
-└── .gitignore
+	/chatbot
+	├── /node_modules
+	├── /public
+	│   ├── logo.png  <-- logo image here
+	│   ├── index.html
+	├── /src
+	│   ├── /components
+	│   │   ├── Chatbot.js      <-- Chatbot page
+	│   │   ├── AboutUs.js      <-- About Us page
+	│   │   └── Home.js         <-- Home page
+	│   ├── App.js
+	│   ├── App.css
+	│   ├── index.js
+	├── package.json
+	└── .gitignore
 
 
 Implementation : 
